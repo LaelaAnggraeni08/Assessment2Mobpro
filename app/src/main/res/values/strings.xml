@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">AssessmentMobpro</string>
+    <string name="app_name">Hitung Ruang</string>
+    <string name="hitungruang_intro">Volume Kubus</string>
+    <string name="sisi_satu">Sisi 1 (cm)</string>
+    <string name="sisi_dua">Sisi 2 (cm)</string>
+    <string name="sisi_tiga">Sisi 3 (cm)</string>
+    <string name="hitung">Hitung</string>
+    <string name="volume_x">Volume : %1$.2f</string>
+    <string name="sisi1_invalid">Sisi 1 tidak boleh kosong.</string>
+    <string name="sisi2_invalid">Sisi 2 tidak boleh kosong.</string>
+    <string name="sisi3_invalid">Sisi 3 tidak boleh kosong.</string>
 </resources>
